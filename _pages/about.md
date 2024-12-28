@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>340 ISYE Main Building</p>
+    <p> 755 Ferst Dr NW </p>
+    <p>Atlanta, Georgia 30332-0315</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey, y'all!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Machine Learning PhD student at [H. Milton Stewart School of Industrial and Systems Engineering](https://www.isye.gatech.edu/) at the <b>Georgia</b> Institute of <b>Tech</b>nology! My advisor is [Professor Jing Li](https://sites.gatech.edu/jing-li/). I have a B.S. in Biomedical Engineering from Georgia Tech as well. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently interested in multimodal data analysis and sensor system optimization applied to biomedical systems. I am entrepreneurially motivated, and hope to apply my work to the creation of a novel biomedical device to better the lives of others. 
+
+Outside of the lab, I enjoy going to the gym, cooking, and playing the piano and guitar!
