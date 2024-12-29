@@ -1,14 +1,15 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+title: Research
+permalink: /research-interests/
+description: Here is a list of some of my research interests and projects I have worked on!
+nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Biomedical Devices, Machine Learning]
 horizontal: false
 ---
 
+dfddg
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
@@ -38,6 +39,9 @@ horizontal: false
   {% endfor %}
 
 {% else %}
+
+dgdgdg
+
 
 <!-- Display projects without categories -->
 
